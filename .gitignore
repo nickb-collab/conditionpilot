@@ -28,3 +28,5 @@ build/
 # Uploads / local storage (use S3 in prod)
 uploads/
 storage/
+node_modules/
+.next/
